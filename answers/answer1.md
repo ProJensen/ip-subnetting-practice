@@ -16,3 +16,5 @@
 - Usable: `192.168.1.129 - 192.168.1.254`
 - Broadcast: `192.168.1.255`
 - Hosts: 126
+
+![/25 Calculation](https://raw.githubusercontent.com/ProJensen/ip-subnetting-practice/refs/heads/main/Calculation/%3A25.png)
