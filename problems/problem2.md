@@ -1,4 +1,4 @@
-# 🧮 Problem 2 – Subnetting with /26
+# Problem 2 – Subnetting with /26
 
 You are given the IP block: `192.168.1.0/24`.
 
