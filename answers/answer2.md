@@ -11,7 +11,7 @@
 ### Subnet 1
 - Network: `192.168.1.0/26`
 - Usable: `192.168.1.1 – 192.168.1.62`
-- *Broadcast: `192.168.1.63`
+- Broadcast: `192.168.1.63`
 - Usable hosts: 62
 
 ### Subnet 2
@@ -31,3 +31,5 @@
 - Usable: `192.168.1.193 – 192.168.1.254`
 - Broadcast: `192.168.1.255`
 - Usable hosts: 62
+
+![/26](https://raw.githubusercontent.com/ProJensen/ip-subnetting-practice/refs/heads/main/Calculation/%3A26.png)
