@@ -1,7 +1,10 @@
-# Answer 1 – Subnetting /25
+# ✅ Answer 1 – Subnetting /25 (2 subnets)
 
+## Calculation
 - Original: `192.168.1.0/24` → 256 addresses
-- 2 subnets = `/25` → 128 IPs each
+- Need 2 subnets → borrow 1 bit → /25
+- Subnet mask `255.255.255.128`
+- Each subnet: 128 address → 126 usable
 
 ---
 
