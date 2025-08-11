@@ -2,9 +2,9 @@
 
 ## Calculation
 - Original: `192.168.1.0/24` → 256 addresses  
-- Need 4 subnets → borrow 2 bits → **/26**  
-- Subnet mask: **255.255.255.192**  
-- Each subnet: **64 addresses → 62 usable**
+- Need 4 subnets → borrow 2 bits → /26
+- Subnet mask: `255.255.255.192`
+- Each subnet: 64 addresses → 62 usable
 
 ---
 
