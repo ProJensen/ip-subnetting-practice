@@ -55,3 +55,5 @@
 - **Usable:** `192.168.1.225 – 192.168.1.254`
 - **Broadcast:** `192.168.1.255`
 - **Usable hosts:** 30
+
+![/27](https://raw.githubusercontent.com/ProJensen/ip-subnetting-practice/refs/heads/main/Calculation/%3A27.png)
